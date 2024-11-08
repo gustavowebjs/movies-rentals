@@ -1,0 +1,26 @@
+inception:
+  id: 1
+  title: "Inception"
+  genre: "Sci-Fi"
+  rating: 8.8
+  available_copies: 5
+  created_at: <%= Time.now %>
+  updated_at: <%= Time.now %>
+
+godfather:
+  id: 2
+  title: "The Godfather"
+  genre: "Crime"
+  rating: 9.2
+  available_copies: 3
+  created_at: <%= Time.now %>
+  updated_at: <%= Time.now %>
+
+matrix:
+  id: 3
+  title: "The Matrix"
+  genre: "Action"
+  rating: 8.7
+  available_copies: 4
+  created_at: <%= Time.now %>
+  updated_at: <%= Time.now %>
