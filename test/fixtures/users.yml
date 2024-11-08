@@ -1,0 +1,17 @@
+john:
+  id: 1
+  name: "John Doe"
+  created_at: <%= Time.now %>
+  updated_at: <%= Time.now %>
+
+jane:
+  id: 2
+  name: "Jane Smith"
+  created_at: <%= Time.now %>
+  updated_at: <%= Time.now %>
+
+alice:
+  id: 3
+  name: "Alice Wonderland"
+  created_at: <%= Time.now %>
+  updated_at: <%= Time.now %>

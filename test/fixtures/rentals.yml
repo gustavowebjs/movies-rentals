@@ -1,0 +1,20 @@
+john_rental_matrix:
+  id: 1
+  user_id: 1
+  movie_id: 3
+  created_at: <%= 5.days.ago %>
+  updated_at: <%= 5.days.ago %>
+
+jane_rental_inception:
+  id: 2
+  user_id: 2
+  movie_id: 1
+  created_at: <%= 3.days.ago %>
+  updated_at: <%= 3.days.ago %>
+
+alice_rental_godfather:
+  id: 3
+  user_id: 3
+  movie_id: 2
+  created_at: <%= 1.day.ago %>
+  updated_at: <%= 1.day.ago %>
